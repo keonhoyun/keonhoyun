@@ -1,12 +1,12 @@
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:goldilocks4989@gmail.com)
 ### Hi there 👋
 
 
-## 🛠️STACK🛠️
-
+### 🛠️Tech Stack🛠️
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:goldilocks4989@gmail.com)
+
 <!--
 **keonhoyun/keonhoyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
